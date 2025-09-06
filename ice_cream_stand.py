@@ -12,7 +12,6 @@ Topics Covered:
 
 # TODO: Students, fill out statement of work header
 # Student Name in Canvas: David Williams
-# Penn ID: 58041486
 # Did you do this homework on your own (yes / no): yes
 # Resources used outside course materials: YouTube Videos, Code Academy
 
