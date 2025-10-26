@@ -10,7 +10,7 @@ Topics Covered:
 - Formatted Strings
 """
 
-# D avid Williams
+# David Williams
 #import statements
 # Note we use from ... import ... 
 # This means you can use randint directly without random.randint()
